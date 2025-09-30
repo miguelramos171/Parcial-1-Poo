@@ -40,3 +40,20 @@ La **interacción entre clases** se da en la clase `Biblioteca`, que actúa como
 
 El control de acceso para registrar libros se implementó con una contraseña simple (`"admin"`) para cumplir con el requisito de perfil administrador.
 
+
+A continuación se presentan capturas de pantalla que demuestran el correcto funcionamiento del simulador de biblioteca.
+
+## Menú
+![alt text](image.png)
+En este apartado se le muestran las opciones al sujeto que está corriendo el programa.
+
+## Opción Registrar libro
+![alt text](image-1.png)
+En esta imagen se muestra como se piden todos los datos al administrador para registrar el libro en el sistema de la biblioteca, confirmando primero si tiene permiso para hacer eso (con una contraseña).
+
+## Opción Registrar usuario
+![alt text](image-2.png)
+Se registra su noimbre e ID para guardarlos, y validarlos después
+
+## Opción Prestar libro
+![alt text](image-3.png)

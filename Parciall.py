@@ -73,7 +73,7 @@ class Biblioteca:
             usuario.prestar(libro)
             print("Libro prestado.")
         else:
-            print("Error: usuario, libro no encontrado o no disponible.")
+            print("Error: usuario o libro no encontrado, o no disponible.")
 
     def menu(self):
         while True:
