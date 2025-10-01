@@ -45,15 +45,21 @@ A continuación se presentan capturas de pantalla que demuestran el correcto fun
 
 ## Menú
 ![alt text](image.png)
+
 En este apartado se le muestran las opciones al sujeto que está corriendo el programa.
 
 ## Opción Registrar libro
 ![alt text](image-1.png)
+
 En esta imagen se muestra como se piden todos los datos al administrador para registrar el libro en el sistema de la biblioteca, confirmando primero si tiene permiso para hacer eso (con una contraseña).
 
 ## Opción Registrar usuario
 ![alt text](image-2.png)
+
 Se registra su noimbre e ID para guardarlos, y validarlos después
 
 ## Opción Prestar libro
 ![alt text](image-3.png)
+![alt text](image-4.png)
+
+Aquí se ve como solo funciona cuando el id del usuario ha sido registrado anteriormente
